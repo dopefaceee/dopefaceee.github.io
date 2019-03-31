@@ -74,7 +74,7 @@ In this page I will try to list all of my bookmarked page of flutter development
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter) : An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Dart Algorithm](https://github.com/jarontai/dart-algorithms) : Data structures and algorithms with Dart.
 - [JetLight Studio](https://github.com/JetLightStudio?language=dart) : JetLight Studio
-- [Flutter Search View](https://medium.com/@vignesh_prakash/flutter-searchview-12ab2e35d501)
+- [Flutter Search View](https://medium.com/@vignesh_prakash/flutter-searchview-12ab2e35d501) : Create search view in flutter.
 
 #### Youtube Channel
 
